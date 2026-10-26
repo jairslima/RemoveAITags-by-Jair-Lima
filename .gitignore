@@ -31,3 +31,7 @@ Chave secreta*
 *.spec
 *.exe
 .claude/
+
+# Seguranca - auditoria automatica
+credentials.*
+*.pfx
